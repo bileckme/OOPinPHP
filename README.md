@@ -27,14 +27,14 @@ class C extends A
 ```
 class D implement B
 {
-  - have to declare methodY
+  - have to declare method Y
 }
 ```
 
 ```
 class E extends D
 {
-  - have to declare methodY
+  - have to declare method Y
 }
 ```
 
