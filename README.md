@@ -1,7 +1,7 @@
 # OOP in PHP
 
 ## Basic OOP
-Understand basic object-orientation in PHP
+Understanding basic object-orientation in PHP
 
 ```
 abstract class A 
